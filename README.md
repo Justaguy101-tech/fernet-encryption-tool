@@ -50,6 +50,7 @@ pip install cryptography pyperclip
 ├── decrypter.py      # Decrypts from file or pasted string
 ├── key.key           # Key used for both encryption & decryption
 ├── encrypted.txt     # (Optional) Example output file
+├── decrypted.txt     # (Optional) Example output file
 
 ---
 
